@@ -1,0 +1,22 @@
+.app__header {
+  background-color: var(--color-black);
+}
+
+.app__wrapper_info {
+  margin-left: 30px;
+}
+.app__header-h1 {
+  font-family: var(--font-base);
+  color: var(--color-golden);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  line-height: 117px;
+  font-size: 80px;
+}
+
+.wrapper__img {
+  box-shadow: 6px 2px 25px 1px rgba(220, 202, 135, 0.51);
+  -webkit-box-shadow: 6px 2px 25px 1px rgba(220, 202, 135, 0.51);
+  -moz-box-shadow: 6px 2px 25px 1px rgba(220, 202, 135, 0.51);
+  border-radius: 3px;
+}
